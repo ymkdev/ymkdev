@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 성장하는 개발자 고유민입니다😄
+##### 성장하는 개발자 고유민입니다😄
 
 <!--
 **ymkdev/ymkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
