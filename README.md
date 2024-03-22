@@ -6,9 +6,10 @@
 ##### Major: ComputerScience
 ##### Interest: Backend
 ##### :memo: sqld, adsp, opic 
-## :blue_heart:skill
+## :dart:skill
+ <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=C&logoColor=white"/>
 
-## :blue_heart:studying
+## :hourglass:studying
 
 ![ymkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymkdev&show_icons=true&theme=radical>)
 
