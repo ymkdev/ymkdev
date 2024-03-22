@@ -3,7 +3,7 @@
 ### Hi there 👋
 ##### 성장하는 개발자 고유민입니다😄
 ## :blue_heart:introduce
-Major: ComputerScience
+##### Major: ComputerScience
 Interest: Backend, Finance 
 :memo: sqld, adsp, opic 
 ## :blue_heart:skill
