@@ -7,10 +7,10 @@
 ##### Interest: Backend
 ##### :memo: sqld, adsp, opic 
 ## :dart:skill
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## :hourglass:studying
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![ymkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymkdev&show_icons=true&theme=radical>)
 
