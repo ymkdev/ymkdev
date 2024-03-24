@@ -7,7 +7,7 @@
 ##### Certificate: sqld, adsp
 
 ## 💡about me
-##### mbti: istp 호기심이 많고 즉흥적임 
+##### mbti: ISTP
 ##### hobby: reading📖, 이것저것 하는 것을 좋아해요. 🎸⛸🥐...
 ##### 💌 get out of the ComfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
 
