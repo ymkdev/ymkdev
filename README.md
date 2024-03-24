@@ -1,23 +1,33 @@
 
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi👋%20I'm%20YouMin&fontSize=40)-->
-### Hi there 👋
-##### 성장하는 개발자 😎
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi👋%20I'm%20YouMin&fontSize=40)
+## 끊임없이 성장하는 개발자가 되고 싶습니다. 😎 
 ## 💙introduce
 ##### Major: Computer Science
-##### Interest: Backend
-##### 📝 sqld, adsp
+##### Interest: Backend, Bigdata
+##### Certificate: sqld, adsp
 
 ## 💡about me
+##### mbti: istp 호기심이 많고 즉흥적임 
+##### hobby: reading📖, ......? 이것저것 하는 것을 좋아해요. 🎸⛸🥐
+##### get out of the ComfortZone 
+##### 하고 싶은 것들을 하며 즐겁게 살래요. 
+
+#### 🔓project & experience 
+##### 게임 프로젝트 Sub-Zero 선택지 선택 형식의 기후위기 생존게임 (2022.06-2022.08) 
+##### 게임 프로젝트 mechuligame 미니게임 6개로 구성된 스토리형 추리 게임 (2023.06-2023.08)
+##### 웹 프로젝트 foodywolgok (2023.11-2023.12)
+##### 생성형 AI를 통한 펀드 예측 구현 (ing) -- 
+##### 대학교청소년교육지원사업 멘토 2021
+##### 전공 c언어 멘토링 멘토 2023
+##### sw교육기부단 코코몽팀 팀장 2023
 
 #### 📌studying
-###### ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-###### 코딩테스트 
-###### 정보처리기사 실기 
+###### 정보처리기사 실기 , 알고리즘, ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
 #### 🎯skill
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="100" height="20">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
