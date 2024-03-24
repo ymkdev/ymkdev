@@ -11,7 +11,7 @@
 ##### hobby: reading📖, 이것저것 하는 것을 좋아해요. 🎸⛸🥐...
 ##### 💌 get out of the ComfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
 
-#### 🔓project
+## 🔓project
 ##### 게임 프로젝트 Sub-Zero 선택지 선택 형식의 기후위기 생존게임 (2022.06-2022.08) 
 ##### 게임 프로젝트 mechuligame 미니게임 6개로 구성된 스토리형 추리 게임 (2023.06-2023.08)
 ##### 웹 프로젝트 foodywolgok (2023.11-2023.12)
@@ -21,10 +21,10 @@
 ##### 전공 c언어 멘토링 멘토 2023
 ##### sw교육기부단 코코몽팀 팀장 2023-->
 
-<span style="text-decoration: underline;"> #### 📌studying </span>
+## 📌studying </span>
 ###### 정보처리기사 실기 , 알고리즘, ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
-#### 🎯skill
+## 🎯skill
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
