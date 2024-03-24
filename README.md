@@ -3,9 +3,9 @@
 ### Hi there 👋
 ##### 성장하는 개발자 😎
 ## 💙introduce
-##### Major: ComputerScience
+##### Major: Computer Science
 ##### Interest: Backend
-##### :memo: sqld, adsp, opic
+##### 📝 sqld, adsp, opic
 
 ## 🎯skill
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
