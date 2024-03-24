@@ -15,9 +15,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📌studying
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) with 인프런 
-##### 코딩테스트 with 코딩 테스트 합격자 되기: 파이썬 편
-##### 정보처리기사 실기 
+###### ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) with 인프런 
+###### 코딩테스트 with 코딩 테스트 합격자 되기: 파이썬 편
+###### 정보처리기사 실기 
 
 <!--![ymkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymkdev&show_icons=true&theme=radical>)-->
 
