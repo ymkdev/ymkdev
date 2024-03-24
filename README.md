@@ -21,7 +21,7 @@
 ##### 전공 c언어 멘토링 멘토 2023
 ##### sw교육기부단 코코몽팀 팀장 2023-->
 
-## 📌studying </span>
+## 📌studying 
 ###### 정보처리기사 실기 , 알고리즘, ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
 ## 🎯skill
