@@ -9,7 +9,7 @@
 ## 💡about me
 ##### mbti: ISTP
 ##### hobby: reading📖, 이것저것 하는 것을 좋아해요. 🎸⛸🥐...
-##### 💌 get out of the ComfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
+##### 💌 get out of the comfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
 
 ## 🔓project
 ###### 게임 프로젝트 Sub-Zero 선택지 선택 형식의 기후위기 생존게임 (2022.06-2022.08) 
@@ -25,11 +25,13 @@
 ###### 정보처리기사 실기 , 알고리즘, ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
 ## 🎯skill
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+### Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### library
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 <!--![ymkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymkdev&show_icons=true&theme=radical>)-->
