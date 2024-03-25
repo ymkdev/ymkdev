@@ -9,7 +9,7 @@
 ## 💡about me
 ##### mbti: ISTP
 ##### hobby: reading📖, 이것저것 하는 것을 좋아해요. 🎸⛸🥐...
-##### 💌 get out of the ComfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
+##### 💌 get out of the comfortZone, 하고 싶은 것들을 하며 즐겁게 살래요. 
 
 ## 🔓project
 ###### 게임 프로젝트 Sub-Zero 선택지 선택 형식의 기후위기 생존게임 (2022.06-2022.08) 
