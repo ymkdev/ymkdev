@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi👋%20I'm%20YouMin&fontSize=40)
-## 끊임없이 성장하는 개발자가 되고 싶습니다. 😊
+## 끊임없이 성장하는, 궁금증이 많은 개발자😊 
 ## 💙introduce
 ##### Major: Computer Science
 ##### Interest: Backend, Bigdata
